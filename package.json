@@ -1,0 +1,19 @@
+{
+  "name": "dev_jobs",
+  "version": "1.0.0",
+  "description": "Portal DevJobs con NodeJS, Handlebars Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raul220/dev-jobs.git"
+  },
+  "author": "Raul220",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raul220/dev-jobs/issues"
+  },
+  "homepage": "https://github.com/Raul220/dev-jobs#readme"
+}
